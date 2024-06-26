@@ -1,4 +1,4 @@
-#### Welcome to The Tech Collective's case repository on GitHub. You can find [our official organization here](https://github.com/thetechcollective). This organization hosts our tutorials and case-library. 
+#### Welcome to The Tech Collective's case repository on GitHub. You can find [our official organization here](https://github.com/thetechcollective). This organization hosts our tutorials, templates and case-library. 
 
 **Follow us on GitHub**  You can find our GitHub organization at [@thetechcollective](https://github.com/thetechcollective). There you can see our latest projects, issues, pull requests, and [discussions](https://github.com/orgs/thetechcollective/discussions). You can also **star ⭐, fork 🍴, and watch 👀** our repositories to show your support and stay updated.
 
